@@ -1,4 +1,4 @@
-# Simple-API-Database-With-Python
+# Simple-API-With-Python
 
 ## Rebuild the project:
 + Clone the repo.
